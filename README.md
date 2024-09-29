@@ -12,7 +12,9 @@
 10. [WeatherOfCities.sh](BashScripting/weather_checking.sh): This script fetches and displays weather for cities listed in a file.
 11. [PingDomains.sh](BashScripting/ping_domains.sh): This script checks the availability of specified websites using ping.
 12. [IsMyInternetDown.sh](BashScripting/is_my_internet_down.sh): This script continuously checks if a specified target is reachable until it confirms it's up.
-
+13. [PrintNameInASCII.sh](BashScripting/PrintNameInASCII.sh): Script prompts for name, displays ASCII art.
+14. [ReadingArrayElements.sh](BashScripting/reading_array.sh): Script reads array of names, echoes them.
+15. [PasswordHiding.sh](BashScripting/Password_Hiding.sh): Reads username, hides password while typing.
 
 ## License
    MIT
