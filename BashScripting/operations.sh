@@ -7,14 +7,14 @@ b=20
 echo "a+b=` expr $a + $b ` "
 
 
-# basic arthimetic using Double Parentheses
+# basic arithmetic using Double Parentheses
 
 c=34
 d=4
 echo "c-d=$(( $c-$d))"
 
 
-# basic arthimetic using Let Construction
+# basic arithmetic using Let Construction
 
 
 e=20
