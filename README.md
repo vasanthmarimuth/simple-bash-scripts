@@ -15,6 +15,7 @@
 13. [PrintNameInASCII.sh](BashScripting/PrintNameInASCII.sh): Script prompts for name, displays ASCII art.
 14. [ReadingArrayElements.sh](BashScripting/array_reading.sh): Script reads array of names, echoes them.
 15. [PasswordHiding.sh](BashScripting/Password_Hiding.sh): Reads username, hides password while typing.
+16. [BasicArithmetic.sh](BashScripting/operations.sh): Basic Arithmetic using Double paranthesis, Let Construction, Backticks and expr.
 
 ## License
    MIT
